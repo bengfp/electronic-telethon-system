@@ -1,0 +1,12 @@
+C:\Users\joann\Documents\LaSalleCollege_Pratic\ThirdSem\Multi-tierApp\Projects\firstProject\ETS\bin\Debug\ETSClassLibrary.dll
+C:\Users\joann\Documents\LaSalleCollege_Pratic\ThirdSem\Multi-tierApp\Projects\firstProject\ETS\bin\Debug\ETSClassLibrary.pdb
+C:\Users\joann\Documents\LaSalleCollege_Pratic\ThirdSem\Multi-tierApp\Projects\firstProject\ETS\obj\Debug\ETS.csproj.AssemblyReference.cache
+C:\Users\joann\Documents\LaSalleCollege_Pratic\ThirdSem\Multi-tierApp\Projects\firstProject\ETS\obj\Debug\ETS.csproj.CoreCompileInputs.cache
+C:\Users\joann\Documents\LaSalleCollege_Pratic\ThirdSem\Multi-tierApp\Projects\firstProject\ETS\obj\Debug\ETSClassLibrary.dll
+C:\Users\joann\Documents\LaSalleCollege_Pratic\ThirdSem\Multi-tierApp\Projects\firstProject\ETS\obj\Debug\ETSClassLibrary.pdb
+C:\Users\joann\Desktop\firstProject\ETS\bin\Debug\ETSClassLibrary.dll
+C:\Users\joann\Desktop\firstProject\ETS\bin\Debug\ETSClassLibrary.pdb
+C:\Users\joann\Desktop\firstProject\ETS\obj\Debug\ETS.csproj.AssemblyReference.cache
+C:\Users\joann\Desktop\firstProject\ETS\obj\Debug\ETS.csproj.CoreCompileInputs.cache
+C:\Users\joann\Desktop\firstProject\ETS\obj\Debug\ETSClassLibrary.dll
+C:\Users\joann\Desktop\firstProject\ETS\obj\Debug\ETSClassLibrary.pdb
